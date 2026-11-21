@@ -1,0 +1,128 @@
+<svg class="light" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 662.6 270" width="662.6" height="270" id="meae3d6__root" data-diagram-type="ascii">
+  <style data-mercat-style="universal">.mercat text{font-family:'Google Sans',Roboto,Arial,sans-serif;fill:var(--m-text);dominant-baseline:central}.mercat .m-edge .m-path{fill:none;stroke:var(--m-line);stroke-width:1.5px}.mercat .m-note .m-label{fill:var(--m-note-text)}.mercat .t-label{font-size:13px;font-weight:500}</style>
+  <style data-mercat-style="theme-light">#meae3d6__root{--m-text:#1f1f1f;--m-line:#545454;--m-note-text:#1f1f1f}</style>
+  <style data-mercat-style="theme-dark">#meae3d6__root.dark{--m-text:#e3e3e3;--m-line:#bfbfbf;--m-note-text:#e3e3e3}</style>
+  <style data-mercat-style="type">#meae3d6__root .arrow-line,#meae3d6__root .bus-line{fill:none;stroke:var(--m-line);stroke-width:1.5px;stroke-linecap:round;stroke-linejoin:round}#meae3d6__root .annotation-text{fill:var(--m-text);font-size:13px;font-weight:500;white-space:pre}</style>
+  <style data-mercat-style="diagram">#meae3d6__root text{font-family:Google Sans Mono, Roboto Mono, monospace}</style>
+  <g class="mercat mercat-ascii">
+    <defs>
+      <marker id="meae3d6__mk-arrow" refX="9.45" refY="3.4" markerWidth="10.8" markerHeight="6.8" markerUnits="userSpaceOnUse" orient="auto-start-reverse">
+        <path d="M 0 0 L 10.8 3.4 L 0 6.8 Z" class="m-marker" fill="var(--m-line)" stroke="none"/>
+      </marker>
+    </defs>
+    <g class="m-edge" id="meae3d6__edge__pt__a1__0" data-role="connector">
+      <line x1="19.25" y1="47" x2="36.25" y2="47" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="meae3d6__edge__pt__pt__0" data-role="connector">
+      <line x1="53.25" y1="69" x2="70.25" y2="69" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="meae3d6__edge__a2__pt__0" data-role="connector">
+      <line x1="87.25" y1="69" x2="95.75" y2="69" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="meae3d6__edge__a2__a3__0" data-role="connector">
+      <line x1="138.25" y1="69" x2="146.75" y2="69" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="meae3d6__edge__pt__a4__0" data-role="connector">
+      <line x1="53.25" y1="91" x2="70.25" y2="91" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="meae3d6__edge__pt__a6__0" data-role="connector">
+      <line x1="53.25" y1="113" x2="70.25" y2="113" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="meae3d6__edge__pt__a8__0" data-role="connector">
+      <line x1="53.25" y1="135" x2="70.25" y2="135" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="meae3d6__edge__a9__a10__0" data-role="connector">
+      <line x1="482.5" y1="135" x2="498.15" y2="135" class="m-path arrow-line" marker-end="url(#meae3d6__mk-arrow)"/>
+    </g>
+    <g class="m-edge" id="meae3d6__edge__a10__a11__0" data-role="connector">
+      <line x1="567.5" y1="135" x2="583.15" y2="135" class="m-path arrow-line" marker-end="url(#meae3d6__mk-arrow)"/>
+    </g>
+    <g class="m-edge" id="meae3d6__edge__pt__a12__0" data-role="connector">
+      <line x1="53.25" y1="157" x2="70.25" y2="157" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="meae3d6__edge__pt__a14__0" data-role="connector">
+      <line x1="53.25" y1="179" x2="70.25" y2="179" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="meae3d6__edge__pt__a16__0" data-role="connector">
+      <line x1="19.25" y1="201" x2="36.25" y2="201" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="meae3d6__edge__pt__a18__0" data-role="connector">
+      <line x1="19.25" y1="223" x2="36.25" y2="223" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="meae3d6__edge__pt__a20__0" data-role="connector">
+      <line x1="19.25" y1="245" x2="36.25" y2="245" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="meae3d6__edge__pt__pt__1" data-role="connector">
+      <line x1="19.25" y1="47" x2="19.25" y2="245" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="meae3d6__edge__pt__pt__2" data-role="connector">
+      <line x1="53.25" y1="69" x2="53.25" y2="179" class="m-path bus-line"/>
+    </g>
+    <g class="m-node m-note" id="meae3d6__note__a0" data-role="annotation">
+      <text x="15" y="25" class="m-label t-label annotation-text" text-anchor="start">fabric-enterprise-rag/</text>
+    </g>
+    <g class="m-node m-note" id="meae3d6__note__a1" data-role="annotation">
+      <text x="49" y="47" class="m-label t-label annotation-text" text-anchor="start">app/</text>
+    </g>
+    <g class="m-node m-note" id="meae3d6__note__a2" data-role="annotation">
+      <text x="100" y="69" class="m-label t-label annotation-text" text-anchor="start">init</text>
+    </g>
+    <g class="m-node m-note" id="meae3d6__note__a3" data-role="annotation">
+      <text x="151" y="69" class="m-label t-label annotation-text" text-anchor="start">.py</text>
+    </g>
+    <g class="m-node m-note" id="meae3d6__note__a4" data-role="annotation">
+      <text x="83" y="91" class="m-label t-label annotation-text" text-anchor="start">config.py</text>
+    </g>
+    <g class="m-node m-note" id="meae3d6__note__a5" data-role="annotation">
+      <text x="244.5" y="91" class="m-label t-label annotation-text" text-anchor="start"># Environment settings</text>
+    </g>
+    <g class="m-node m-note" id="meae3d6__note__a6" data-role="annotation">
+      <text x="83" y="113" class="m-label t-label annotation-text" text-anchor="start">setup_index.py</text>
+    </g>
+    <g class="m-node m-note" id="meae3d6__note__a7" data-role="annotation">
+      <text x="244.5" y="113" class="m-label t-label annotation-text" text-anchor="start"># Run once to create Azure AI Search index</text>
+    </g>
+    <g class="m-node m-note" id="meae3d6__note__a8" data-role="annotation">
+      <text x="83" y="135" class="m-label t-label annotation-text" text-anchor="start">ingest.py</text>
+    </g>
+    <g class="m-node m-note" id="meae3d6__note__a9" data-role="annotation">
+      <text x="244.5" y="135" class="m-label t-label annotation-text" text-anchor="start"># Reads from Fabric OneLake</text>
+    </g>
+    <g class="m-node m-note" id="meae3d6__note__a10" data-role="annotation">
+      <text x="508" y="135" class="m-label t-label annotation-text" text-anchor="start">Chunks</text>
+    </g>
+    <g class="m-node m-note" id="meae3d6__note__a11" data-role="annotation">
+      <text x="593" y="135" class="m-label t-label annotation-text" text-anchor="start">Indexes</text>
+    </g>
+    <g class="m-node m-note" id="meae3d6__note__a12" data-role="annotation">
+      <text x="83" y="157" class="m-label t-label annotation-text" text-anchor="start">rag_agent.py</text>
+    </g>
+    <g class="m-node m-note" id="meae3d6__note__a13" data-role="annotation">
+      <text x="244.5" y="157" class="m-label t-label annotation-text" text-anchor="start"># LangGraph Corrective RAG workflow</text>
+    </g>
+    <g class="m-node m-note" id="meae3d6__note__a14" data-role="annotation">
+      <text x="83" y="179" class="m-label t-label annotation-text" text-anchor="start">main.py</text>
+    </g>
+    <g class="m-node m-note" id="meae3d6__note__a15" data-role="annotation">
+      <text x="244.5" y="179" class="m-label t-label annotation-text" text-anchor="start"># FastAPI web server &amp; Entra ID auth extraction</text>
+    </g>
+    <g class="m-node m-note" id="meae3d6__note__a16" data-role="annotation">
+      <text x="49" y="201" class="m-label t-label annotation-text" text-anchor="start">Dockerfile</text>
+    </g>
+    <g class="m-node m-note" id="meae3d6__note__a17" data-role="annotation">
+      <text x="244.5" y="201" class="m-label t-label annotation-text" text-anchor="start"># Production container image</text>
+    </g>
+    <g class="m-node m-note" id="meae3d6__note__a18" data-role="annotation">
+      <text x="49" y="223" class="m-label t-label annotation-text" text-anchor="start">requirements.txt</text>
+    </g>
+    <g class="m-node m-note" id="meae3d6__note__a19" data-role="annotation">
+      <text x="244.5" y="223" class="m-label t-label annotation-text" text-anchor="start"># Python dependencies</text>
+    </g>
+    <g class="m-node m-note" id="meae3d6__note__a20" data-role="annotation">
+      <text x="49" y="245" class="m-label t-label annotation-text" text-anchor="start">.env.example</text>
+    </g>
+    <g class="m-node m-note" id="meae3d6__note__a21" data-role="annotation">
+      <text x="244.5" y="245" class="m-label t-label annotation-text" text-anchor="start"># Environment variable template</text>
+    </g>
+  </g>
+</svg>
